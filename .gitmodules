@@ -1,0 +1,3 @@
+[submodule "htmlcss-example"]
+	path = htmlcss-example
+	url = https://github.com/skrewbar/htmlcss-example.git
