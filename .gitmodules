@@ -1,3 +1,6 @@
 [submodule "htmlcss-example"]
 	path = htmlcss-example
 	url = https://github.com/skrewbar/htmlcss-example.git
+[submodule "javascript-example"]
+	path = javascript-example
+	url = https://github.com/skrewbar/javascript-example.git
